@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+output/
+splits/
+*.nii
+*.nii.gz
+*.pth
+*.csv
+*.json
+!environment.yml
